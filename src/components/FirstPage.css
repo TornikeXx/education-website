@@ -1,0 +1,50 @@
+.grid-div{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+    
+
+.col-2 img{
+    width: 500px;
+}
+.col-1 span {
+    color: orange;
+}
+.col-1 h6{
+    color: gray;
+}
+.col-1 input {
+    background:white;
+	outline: none;
+    color: white;
+    font-size: 15px;
+	font-weight: bold;
+	padding: 20px 30px;
+	border-radius: 25px;
+	border: 1px  ;
+	letter-spacing: 1px;
+    margin-right: 0;
+    
+}
+.col-1 button{
+    background: #4D2C5E;
+	outline: none;
+    color: white;
+    font-size: 15px;
+	font-weight: bold;
+	padding: 20px 30px;
+	border-radius: 25px;
+	border: 1px  ;
+	letter-spacing: 1px;
+    margin-right: 100px;
+    cursor: pointer;
+}
+body{
+    background-color: blanchedalmond;
+}
+.col-1{
+    font-size: larger;
+}

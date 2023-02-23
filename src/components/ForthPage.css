@@ -1,0 +1,36 @@
+.title{
+text-align: center;
+margin-top: 50px;
+}
+.teachers-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+   
+}
+.grid {
+    margin: 20px;
+    border-radius: 15px;
+}
+.teachers-grid img{
+    width: 100%;
+    border-radius: 15px;
+}
+.teacher-card{
+    box-shadow: 8px 12px 18px 6px rgba(0,0,0,0.3);
+}
+
+.teacher-card h2{
+  font-weight: bolder;  
+}
+.teacher-card h4{
+    color: gray;
+}
+.teacher-card p {
+    color:gray;
+}
+.teacher-card h3{
+    color: orange;
+}
+.title h3{
+    color: gray;
+}

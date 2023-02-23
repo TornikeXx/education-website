@@ -1,0 +1,41 @@
+.Thirdpage{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 60px;
+    margin-left: 200px;
+    margin-right: 50px;
+    
+    
+    
+}
+
+.Thirdpage img{
+    width: 300px;
+}
+.third-details{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    margin-top: 60px;
+    
+}
+.third-details img{
+    width: 35px;
+}
+.hearts {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    align-items: center;
+}
+.third-details img{
+    width: 60px;
+}
+.Learning span{
+    color: orange;
+}
+.third-details h3{
+    font-weight: bolder;
+}
+.third-details h6{
+    color: gray;
+}
+

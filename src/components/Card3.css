@@ -1,0 +1,45 @@
+.input-card{
+    
+    
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #4D2C5E;
+    align-items: center;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.items{
+    
+    text-align: center;
+}
+.items input{
+    background:white;
+	outline: none;
+    color: white;
+    font-size: 15px;
+	font-weight: bold;
+	padding: 20px 30px;
+	border-radius: 25px;
+	border: 1px  ;
+	letter-spacing: 1px;
+    margin-right: 0;
+}
+.items button{
+    background: orange;
+	outline: none;
+    color: white;
+    font-size: 15px;
+	font-weight: bold;
+	padding: 20px 30px;
+	border-radius: 25px;
+	border: 1px  ;
+	letter-spacing: 1px;
+    margin-right: 100px;
+    cursor: pointer;
+}
+.items h1{
+    color: white;
+}
+.items h3{
+    color: gray;
+}

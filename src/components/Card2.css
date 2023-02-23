@@ -1,0 +1,28 @@
+.headings{
+    text-align: center;
+    margin-top: 100px;
+} 
+.comments {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
+.section{
+    margin: 20px;
+    box-shadow: 8px 12px 18px 6px rgba(0,0,0,0.3);
+    background-color: white;
+}
+.person{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    align-items: center;
+}
+.comments p{
+    color: gray;
+} 
+.comments h5{
+    color: gray;
+}
+.headings h3{
+    color: gray;
+}
